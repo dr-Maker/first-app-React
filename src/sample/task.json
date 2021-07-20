@@ -17,7 +17,7 @@
         "id":2,
         "title": "tarea tres",
         "descripcion" : "lorem ipsum",
-        "done": false
+        "done": true
 
     },    {
         "id":3,
